@@ -2,10 +2,10 @@ if _G["OnlyFarmSpins"] == nil then
     _G.OnlyFarmSpins = false
 end
 if _G["WantedMagics"] == nil then
-    _G.WantedMagics = {"Time","Reality Collapse"}
+    _G.WantedMagics = {"Time","Reality Collapse","Celestial"}
 end
 if _G["WantedRarities"] == nil then
-    _G.WantedRarities = {"Heavenly"}
+    _G.WantedRarities = {"Heavenly","Legendary"}
 end
 
 if game.Players.LocalPlayer == nil then
